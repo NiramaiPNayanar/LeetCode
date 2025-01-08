@@ -1,4 +1,11 @@
 ''' 
+
+
+24 / 24 test cases passed.
+Status: Accepted
+Runtime: 36 ms
+Memory Usage: 21.1 MB
+
 Complexity : O(n)
 link : https://leetcode.com/problems/product-of-array-except-self/description/
 
