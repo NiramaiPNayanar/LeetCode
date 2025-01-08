@@ -5,6 +5,16 @@ bestcase - O(1)
 
 beats 100% of the codes
 
+Difficulty: Medium
+
+209 / 209 test cases passed.
+Status: Accepted
+Runtime: 0 ms
+Memory Usage: 40.3 MB
+
+link: https://leetcode.com/problems/the-kth-factor-of-n/description/
+
+
 code :-
 */
 class Solution {
