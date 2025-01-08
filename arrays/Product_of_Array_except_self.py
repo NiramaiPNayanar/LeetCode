@@ -1,5 +1,5 @@
 ''' 
-
+Difficulty : Medium
 
 24 / 24 test cases passed.
 Status: Accepted
