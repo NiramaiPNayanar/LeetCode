@@ -8,7 +8,7 @@ beats 100% of the codes
 
 Difficulty: Easy
  
-477 / 477 test cases passed.
+477 / 477 test cases passed. 
 Status: Accepted
 Runtime: 0 ms
 Memory Usage: 19.7 MB
