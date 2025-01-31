@@ -3,7 +3,7 @@ Name:-  The kth Factor of n
 complexity - O(n)
 bestcase - O(1)
 
-beats 100% of the codes
+beats 100% of the codes 
 
 Difficulty: Medium
 
