@@ -4,7 +4,7 @@ Difficulty : Easy
 
 168 / 168 test cases passed.
 Status: Accepted
-Runtime: 0 ms
+Runtime: 0 ms 
 Memory Usage: 16 MB
 
 Complexity : O(n)
