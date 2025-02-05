@@ -3,7 +3,7 @@
 Difficulty : Easy
 
 168 / 168 test cases passed.
-Status: Accepted
+Status: Accepted 
 Runtime: 0 ms 
 Memory Usage: 16 MB
 
