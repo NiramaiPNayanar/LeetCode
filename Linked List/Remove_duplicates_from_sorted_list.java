@@ -7,7 +7,7 @@ Status: Accepted
 Runtime: 0 ms 
 Memory Usage: 16 MB
 
-Complexity : O(n)
+Complexity : O(n) 
 
 link :- https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
