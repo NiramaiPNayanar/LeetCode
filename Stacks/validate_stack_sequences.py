@@ -3,7 +3,7 @@
 152 / 152 test cases passed.
 Status: Accepted
 Runtime: 4 ms
-Memory Usage: 12.5 MB
+Memory Usage: 12.5 MB 
  
 Best Time Complexity - O(n)
 
