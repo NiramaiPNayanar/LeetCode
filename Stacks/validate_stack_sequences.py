@@ -11,7 +11,7 @@ Difficulty : Medium
 link: https://leetcode.com/problems/validate-stack-sequences/description/
  
 code :
-'''
+'''  
  
 class Solution(object):
     def validateStackSequences(self, pushed, popped):
