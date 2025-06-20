@@ -6,7 +6,7 @@ bestcase - O(1)
 
 beats 100% of the codes
 
-Difficulty: Easy
+Difficulty: Easy 
  
 477 / 477 test cases passed. 
 Status: Accepted
