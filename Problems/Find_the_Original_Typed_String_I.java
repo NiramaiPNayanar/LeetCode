@@ -9,6 +9,11 @@ Best Case : O(n)
 Average Case : O(n)
 Worst Case : O(n)
 
+Time complexity - O(n)
+Space complexity - O(1)
+
+Name : Find The Original Typed String I
+
 Difficulty : Easy 
 Link : https://leetcode.com/problems/find-the-original-typed-string-i/description/
 
