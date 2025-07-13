@@ -6,6 +6,7 @@ Complexity: Question was for O(n^2) did it with O(n)
 Difficulty: easy 
 Link: https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
+Beats 100% of the code in leetcode !!! 
 
 137 / 137 test cases passed.
 Status: Accepted
