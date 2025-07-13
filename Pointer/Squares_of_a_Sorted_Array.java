@@ -1,5 +1,7 @@
 /*
 
+Name : Squares of a Sorted Array
+
 Complexity: Question was for O(n^2) did it with O(n)
 Difficulty: easy 
 Link: https://leetcode.com/problems/squares-of-a-sorted-array/description/
