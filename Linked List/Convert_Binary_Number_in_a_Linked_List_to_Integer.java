@@ -7,6 +7,10 @@ Name : Convert Binary Number in a Linked List to Integer
 Difficutly : Easy
 Link: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
+Time Complexity : O(n) 
+Space Complexity : O(1)
+
+Used without bit wise shifting and just pure maths
 
 102 / 102 test cases passed.
 Status: Accepted
