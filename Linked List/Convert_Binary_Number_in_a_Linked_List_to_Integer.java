@@ -1,6 +1,7 @@
 
 /*
 
+Beats 100% of the code 
 
 Name : Convert Binary Number in a Linked List to Integer
 Difficutly : Easy
