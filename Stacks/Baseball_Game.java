@@ -10,7 +10,7 @@ Complexity : O(N)
 Difficulty: Easy
 
 
-Name:  Baseball Game
+Name:  Baseball Game  
 Link: https://leetcode.com/problems/baseball-game/description/
 
 */
